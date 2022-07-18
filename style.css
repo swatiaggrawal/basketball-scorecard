@@ -1,0 +1,105 @@
+
+body{
+    margin:0;
+    background-color: #1b244a;
+    background-image: linear-gradient(62deg, #1b244a 0%, #370966 100%);
+
+
+}
+h1{
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    text-align: center;
+    color: #EEEEEE;
+    margin-top: 30px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+   
+}
+#home{
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    text-align: center;
+    color: #EEEEEE;
+}
+#guest{
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    text-align: center;
+    color: #EEEEEE;
+}
+.homescorebox{
+position: center;
+width: 155px;
+height: 120px;
+left: 82px;
+top: 125px;
+margin:10px;
+fill: solid;
+background-color:black;
+border-radius: 5px;
+
+}
+.guestscorebox{
+    position: center;
+    width: 155px;
+    height: 120px;
+    left: 82px;
+    top: 125px;
+    margin:10px;
+    fill: solid;
+    background-color:black;
+    border-radius: 5px;
+    
+}
+#homescore{
+    width: 117px;
+    height: 120px;
+    left: 355px;
+    top: 125px;
+    font-family: 'Orbitron', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 127px;
+    text-align: center;
+    color: #F94F6D;
+
+}
+#guestscore{
+    width: 117px;
+    height: 120px;
+    left: 355px;
+    top: 125px;
+    font-family: 'Orbitron', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 127px;
+    text-align: center;
+    color: #F94F6D;
+
+}
+button{
+    width: 45px;
+    height: 45px;
+    left: 227px;
+    top: 271px;
+    fill: solid;
+    background-color:#1B244A;
+    font-family: 'Orbitron', sans-serif;
+    color:#9AABD8;
+    border: 1px solid #9AABD8;
+}
+
